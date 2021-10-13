@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6c6b;
+}
+
+header {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+
+}
+header .heading {
+  padding: 20px;
+  font-size: 28px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.service-item {
+  border-bottom: 1px solid #d8d6d6;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+.service-item4 {
+  border-bottom: 1px solid #d8d6d6;
+  padding-bottom: 30px;
+}
